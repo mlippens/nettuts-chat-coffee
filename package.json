@@ -1,0 +1,12 @@
+{
+	"name" : "RealTimeWebCha",
+	"version": "0.0.1",
+	"description": "Real time webchat application",
+	"dependencies": {
+		"socket.io": "latest",
+		"express": "latest",
+		"jade": "latest",
+		"connect-coffee-script": "latest"
+	},
+	"author": "Michael Lippens"
+}
